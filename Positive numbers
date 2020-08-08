@@ -1,0 +1,4 @@
+list1=[-77,-66,-53,0,7,98,201]
+for num in list1:
+        if num>=0:
+                print(num)
